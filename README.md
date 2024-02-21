@@ -1,1 +1,1 @@
-# Register-App
+Register app with using JavaScript
